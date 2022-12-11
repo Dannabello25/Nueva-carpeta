@@ -1,0 +1,63 @@
+.nba{
+    border: 10px yellow solid;
+    font-size: 25px;
+    margin: 25px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 700;
+    display:  block;
+    width: 22%;
+    height: 5%;
+    padding: 25px;
+    text-transform: uppercase;
+    background-color: orange;  
+}
+.nba:hover {
+    background-color: transparent;
+    border: 2px orange solid;
+    color: orange;
+    border: 10px yellow solid;
+}      
+
+.gatito {
+
+    border: 10px rgb(255, 0, 255) solid;
+    font-size: 25px;
+    margin: 25px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 700;
+    display: block;
+    width: 20%;
+    height: 5%;
+    padding: 25px;
+    text-transform: uppercase;
+    background-color: violet;      
+}
+.gatito:hover {
+    background-color: transparent;
+    border: 2px  rgb(255, 0, 255) solid;
+    color:rgb(255, 0, 255);
+    border: 10px violet solid;
+}    
+
+.clima {
+    border: 10px rgb(68, 0, 255) solid;
+    font-size: 25px;
+    margin: 25px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 700;
+    display: block;
+    width: 6%;
+    height: 5%;
+    padding: 25px;
+    text-transform: uppercase;
+    background-color: rgb(116, 221, 240);
+}
+.clima:hover {
+    background-color: transparent;
+    border: 2px  rgb(68, 0, 255) solid;
+    color:rgb(68, 0, 255);
+    border: 10px rgb(116, 221, 240 ) solid ;
+} 
